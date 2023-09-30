@@ -7,4 +7,4 @@ DESAFIO 1 - Resoluação
 
 
                           link do site disponibilizado
-             https://github.com/Deivid051/LandingPage-Arquitetura.git
+             https://landingpage-arquiteturas.netlify.app/
