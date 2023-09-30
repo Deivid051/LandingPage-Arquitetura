@@ -1,0 +1,129 @@
+*{
+
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+
+#cabecario{
+
+    background: #303030;
+    color:      #FFFFFF;
+ 
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-bottom: 150px;
+    
+}
+
+#titulocabecario{
+
+    font-size: 60px;
+    
+
+}
+
+#textocabecario{
+
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+#informacoes{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background: #F9F9F9;
+
+    padding-top: 100px;
+    padding-bottom: 120px;
+    padding-left: 30px;
+
+}
+
+#imagem{
+
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+}
+
+#img{
+
+    margin: 30px;
+
+}
+
+#textos{
+
+text-align: center;
+padding-top: 200px;
+
+font-size: 18px;
+
+}
+
+#tituloimg{
+
+    padding-bottom: 50px;
+    
+
+}
+
+#formulario{
+
+    background: #303030;
+    text-align: center;
+
+
+}
+
+#tituloform{
+
+    color: #FFFFFF;
+
+    padding-top: 25px;
+    padding-bottom: 50px;
+
+}
+
+input{
+
+    margin: 10px;
+    border: 5px;
+    border-radius: 5px;
+    padding: 5px 10px 5px;
+    cursor: pointer;
+
+    width: 400px;
+    height: 25px;
+
+
+
+}
+
+#button{
+
+    margin-bottom: 60px;
+    margin-top: 30px;
+    padding: 20px 20px 20px;
+    background: #C07212;
+    color: #FFFFFF;
+
+    border: 10px;
+    border-radius: 8px;
+    
+}
+
+#button:hover{
+
+    transform: translateX(-10px);
+    box-shadow: 0px 15px 20px  #5b5c1c ;
+    transition-duration: 0.3s;
+
+}
+
